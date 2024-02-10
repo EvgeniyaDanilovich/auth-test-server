@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "user-4",
+      "email": "hgc@ghfh,",
+      "password": "123",
+      "registrationDate": "08.02.2024 10:12:57",
+      "status": "Active",
+      "id": "zyp-ESL",
+      "lastLoginDate": "09.02.2024 21:44:51"
+    },
+    {
+      "username": "user-5",
+      "email": "dshj@sdjb",
+      "password": "123",
+      "registrationDate": "08.02.2024",
+      "status": "Blocked",
+      "id": "Wdh4Pbh",
+      "lastLoginDate": "09.02.2024 16:58:55"
+    },
+    {
+      "username": "user-7",
+      "email": "dcgh@jcc",
+      "password": "123",
+      "registrationDate": "09.02.2024",
+      "status": "Blocked",
+      "id": "RWTnXaV",
+      "lastLoginDate": "09.02.2024 17:11:23"
+    },
+    {
+      "username": "user-1",
+      "email": "dsg@jhv",
+      "password": "123",
+      "registrationDate": "09.02.2024 16:41:01",
+      "status": "Blocked",
+      "id": "5nijDDm",
+      "lastLoginDate": "09.02.2024 16:41:13"
+    },
+    {
+      "username": "Tailwind",
+      "email": "tailwind@gmail.com",
+      "password": "123",
+      "registrationDate": "09.02.2024 21:47:28",
+      "status": "Active",
+      "id": "GpJmZb_",
+      "lastLoginDate": "09.02.2024 21:47:44"
+    }
+  ]
+}
